@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120">
+  <!-- Sky -->
+  <rect width="160" height="120" fill="#EFF6FF"/>
+  <!-- Water -->
+  <rect x="0" y="96" width="160" height="24" fill="#BFDBFE"/>
+  <path d="M0,100 Q20,96 40,100 Q60,104 80,100 Q100,96 120,100 Q140,104 160,100" stroke="#93C5FD" stroke-width="1.5" fill="none"/>
+  <rect x="0" y="96" width="160" height="4" fill="#3B82F6"/>
+
+  <!-- Gateway of India -->
+  <!-- Base platform -->
+  <rect x="44" y="90" width="72" height="7" fill="#FEF3C7" stroke="#D97706" stroke-width="1"/>
+  <!-- Main arch body -->
+  <rect x="52" y="52" width="56" height="40" fill="#FEF3C7" stroke="#D97706" stroke-width="1.5"/>
+  <!-- Central arch -->
+  <path d="M66,92 L66,66 Q80,50 94,66 L94,92" fill="#BFDBFE" stroke="#D97706" stroke-width="1.5"/>
+  <!-- Inner arch decorative line -->
+  <path d="M70,92 L70,68 Q80,55 90,68 L90,92" fill="none" stroke="#D97706" stroke-width="0.8" opacity="0.6"/>
+  <!-- Left tower -->
+  <rect x="52" y="40" width="18" height="54" fill="#FDE68A" stroke="#D97706" stroke-width="1"/>
+  <!-- Right tower -->
+  <rect x="90" y="40" width="18" height="54" fill="#FDE68A" stroke="#D97706" stroke-width="1"/>
+  <!-- Tower domes -->
+  <path d="M52,40 Q61,28 70,40" fill="#F59E0B" stroke="#D97706" stroke-width="1.2"/>
+  <ellipse cx="61" cy="28" rx="5" ry="4" fill="#F59E0B" stroke="#D97706" stroke-width="1"/>
+  <line x1="61" y1="24" x2="61" y2="16" stroke="#D97706" stroke-width="1.5"/>
+  <polygon points="58,16 61,10 64,16" fill="#D97706"/>
+  <path d="M90,40 Q99,28 108,40" fill="#F59E0B" stroke="#D97706" stroke-width="1.2"/>
+  <ellipse cx="99" cy="28" rx="5" ry="4" fill="#F59E0B" stroke="#D97706" stroke-width="1"/>
+  <line x1="99" y1="24" x2="99" y2="16" stroke="#D97706" stroke-width="1.5"/>
+  <polygon points="96,16 99,10 102,16" fill="#D97706"/>
+  <!-- Battlements across top -->
+  <rect x="55" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="63" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="71" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="79" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="87" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="95" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <rect x="103" y="37" width="5" height="5" fill="#F59E0B" stroke="#D97706" stroke-width="0.8"/>
+  <!-- Windows on towers -->
+  <rect x="55" y="50" width="5" height="7" fill="#93C5FD"/>
+  <rect x="55" y="65" width="5" height="7" fill="#93C5FD"/>
+  <rect x="55" y="80" width="5" height="7" fill="#BFDBFE"/>
+  <rect x="100" y="50" width="5" height="7" fill="#93C5FD"/>
+  <rect x="100" y="65" width="5" height="7" fill="#93C5FD"/>
+  <rect x="100" y="80" width="5" height="7" fill="#BFDBFE"/>
+  <!-- Horizontal band -->
+  <line x1="52" y1="64" x2="108" y2="64" stroke="#D97706" stroke-width="1"/>
+
+  <!-- Small boat -->
+  <path d="M12,104 L20,100 L34,100 L38,104 Z" fill="#FEF3C7" stroke="#D97706" stroke-width="1"/>
+  <line x1="25" y1="100" x2="25" y2="92" stroke="#D97706" stroke-width="1.2"/>
+  <polygon points="25,92 34,96 25,99" fill="#FDE68A" stroke="#D97706" stroke-width="0.8"/>
+
+  <!-- Background building left -->
+  <rect x="8" y="60" width="28" height="37" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+  <rect x="12" y="65" width="6" height="7" fill="#93C5FD"/>
+  <rect x="22" y="65" width="6" height="7" fill="#93C5FD"/>
+  <rect x="12" y="78" width="6" height="7" fill="#BFDBFE"/>
+  <rect x="22" y="78" width="6" height="7" fill="#BFDBFE"/>
+  <line x1="22" y1="60" x2="22" y2="46" stroke="#3B82F6" stroke-width="1.5"/>
+  <rect x="19" y="44" width="6" height="3" fill="#3B82F6"/>
+
+  <!-- Background building right -->
+  <rect x="124" y="55" width="28" height="42" fill="#DBEAFE" stroke="#3B82F6" stroke-width="1"/>
+  <rect x="128" y="60" width="6" height="7" fill="#93C5FD"/>
+  <rect x="138" y="60" width="6" height="7" fill="#93C5FD"/>
+  <rect x="128" y="73" width="6" height="7" fill="#BFDBFE"/>
+  <rect x="138" y="73" width="6" height="7" fill="#BFDBFE"/>
+  <rect x="128" y="86" width="6" height="7" fill="#93C5FD"/>
+  <rect x="138" y="86" width="6" height="7" fill="#93C5FD"/>
+  <line x1="138" y1="55" x2="138" y2="40" stroke="#3B82F6" stroke-width="1.5"/>
+  <rect x="135" y="38" width="6" height="3" fill="#3B82F6"/>
+
+  <!-- Clouds -->
+  <ellipse cx="28" cy="16" rx="14" ry="7" fill="white" opacity="0.85"/>
+  <ellipse cx="40" cy="13" rx="9" ry="6" fill="white" opacity="0.85"/>
+  <ellipse cx="120" cy="20" rx="12" ry="6" fill="white" opacity="0.8"/>
+  <ellipse cx="130" cy="17" rx="8" ry="5" fill="white" opacity="0.8"/>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120">
+  <!-- Sky -->
+  <rect width="160" height="120" fill="#EEF2FF"/>
+  <!-- Ground -->
+  <rect x="0" y="100" width="160" height="20" fill="#C7D2FE"/>
+  <!-- Road -->
+  <rect x="0" y="100" width="160" height="4" fill="#818CF8"/>
+
+  <!-- Left tower -->
+  <rect x="10" y="55" width="22" height="46" fill="#E0E7FF" stroke="#6366F1" stroke-width="1.2"/>
+  <rect x="13" y="60" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="21" y="60" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="13" y="74" width="5" height="7" fill="#C7D2FE"/>
+  <rect x="21" y="74" width="5" height="7" fill="#C7D2FE"/>
+  <rect x="13" y="88" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="21" y="88" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="10" y="50" width="22" height="7" fill="#6366F1"/>
+  <rect x="14" y="40" width="4" height="12" fill="#6366F1"/>
+  <rect x="24" y="40" width="4" height="12" fill="#6366F1"/>
+  <rect x="10" y="36" width="22" height="5" fill="#4F46E5"/>
+  <line x1="21" y1="36" x2="21" y2="22" stroke="#4F46E5" stroke-width="1.5"/>
+  <rect x="18" y="22" width="6" height="3" fill="#4F46E5"/>
+
+  <!-- Centre tall tower (Cyber Hub style) -->
+  <rect x="54" y="28" width="52" height="73" fill="#E0E7FF" stroke="#6366F1" stroke-width="1.5"/>
+  <line x1="80" y1="28" x2="80" y2="101" stroke="#6366F1" stroke-width="1"/>
+  <line x1="54" y1="52" x2="106" y2="52" stroke="#6366F1" stroke-width="1"/>
+  <line x1="54" y1="70" x2="106" y2="70" stroke="#6366F1" stroke-width="1"/>
+  <line x1="54" y1="86" x2="106" y2="86" stroke="#6366F1" stroke-width="1"/>
+  <!-- Windows -->
+  <rect x="59" y="34" width="8" height="10" fill="#A5B4FC"/>
+  <rect x="72" y="34" width="8" height="10" fill="#A5B4FC"/>
+  <rect x="85" y="34" width="8" height="10" fill="#C7D2FE"/>
+  <rect x="98" y="34" width="8" height="10" fill="#C7D2FE"/>
+  <rect x="59" y="56" width="8" height="10" fill="#C7D2FE"/>
+  <rect x="72" y="56" width="8" height="10" fill="#A5B4FC"/>
+  <rect x="85" y="56" width="8" height="10" fill="#A5B4FC"/>
+  <rect x="98" y="56" width="8" height="10" fill="#C7D2FE"/>
+  <rect x="59" y="74" width="8" height="8" fill="#A5B4FC"/>
+  <rect x="72" y="74" width="8" height="8" fill="#C7D2FE"/>
+  <rect x="85" y="74" width="8" height="8" fill="#C7D2FE"/>
+  <rect x="98" y="74" width="8" height="8" fill="#A5B4FC"/>
+  <!-- Roof cap -->
+  <rect x="54" y="22" width="52" height="8" fill="#4F46E5"/>
+  <line x1="80" y1="22" x2="80" y2="8" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="80" cy="7" r="3" fill="#6366F1"/>
+
+  <!-- Right tower -->
+  <rect x="128" y="62" width="22" height="39" fill="#E0E7FF" stroke="#6366F1" stroke-width="1.2"/>
+  <rect x="131" y="67" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="139" y="67" width="5" height="7" fill="#C7D2FE"/>
+  <rect x="131" y="81" width="5" height="7" fill="#C7D2FE"/>
+  <rect x="139" y="81" width="5" height="7" fill="#A5B4FC"/>
+  <rect x="128" y="56" width="22" height="7" fill="#6366F1"/>
+  <line x1="139" y1="56" x2="139" y2="40" stroke="#4F46E5" stroke-width="1.5"/>
+  <rect x="136" y="38" width="6" height="3" fill="#4F46E5"/>
+
+  <!-- Clouds -->
+  <ellipse cx="30" cy="18" rx="14" ry="7" fill="white" opacity="0.8"/>
+  <ellipse cx="42" cy="15" rx="10" ry="6" fill="white" opacity="0.8"/>
+  <ellipse cx="125" cy="22" rx="12" ry="6" fill="white" opacity="0.8"/>
+  <ellipse cx="135" cy="19" rx="8" ry="5" fill="white" opacity="0.8"/>
+</svg>

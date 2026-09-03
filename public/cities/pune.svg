@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef2ff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="280" fill="url(#sky)"/>
+  <rect x="0" y="238" width="600" height="42" fill="#c7d2fe" opacity="0.35"/>
+
+  <!-- Shaniwar Wada fort - centre landmark -->
+  <!-- Outer wall -->
+  <rect x="190" y="150" width="220" height="88" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+  <!-- Battlements top wall -->
+  <rect x="193" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="208" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="223" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="238" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="253" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="268" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="283" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="298" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="313" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="328" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="343" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="358" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="373" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <rect x="388" y="143" width="10" height="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Main gate (Delhi Darwaza) -->
+  <rect x="276" y="165" width="48" height="73" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <path d="M276,165 Q300,145 324,165" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <!-- Gate arch inner -->
+  <path d="M283,165 Q300,150 317,165 L317,185 L283,185 Z" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <!-- Door panels -->
+  <line x1="300" y1="165" x2="300" y2="238" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Corner bastions -->
+  <ellipse cx="190" cy="150" rx="14" ry="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="410" cy="150" rx="14" ry="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="190" cy="238" rx="14" ry="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="410" cy="238" rx="14" ry="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <!-- Bastion tops with crenels -->
+  <line x1="183" y1="138" x2="197" y2="138" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="403" y1="138" x2="417" y2="138" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Inner structure lines -->
+  <line x1="190" y1="190" x2="276" y2="190" stroke="#4f46e5" stroke-width="1" opacity="0.5"/>
+  <line x1="324" y1="190" x2="410" y2="190" stroke="#4f46e5" stroke-width="1" opacity="0.5"/>
+  <line x1="190" y1="215" x2="410" y2="215" stroke="#4f46e5" stroke-width="1" opacity="0.5"/>
+  <!-- Tower flag -->
+  <line x1="300" y1="130" x2="300" y2="108" stroke="#4f46e5" stroke-width="2"/>
+  <polygon points="300,108 320,114 300,120" fill="#4f46e5"/>
+
+  <!-- Left buildings -->
+  <rect x="45" y="148" width="36" height="90" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="63" y1="148" x2="63" y2="238" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="173" x2="81" y2="173" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="198" x2="81" y2="198" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="220" x2="81" y2="220" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="50" y="156" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="67" y="156" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="50" y="181" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="67" y="181" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+  <polygon points="45,148 63,130 81,148" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <rect x="100" y="128" width="50" height="110" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="125" y1="128" x2="125" y2="238" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="100" y1="155" x2="150" y2="155" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="100" y1="182" x2="150" y2="182" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="100" y1="208" x2="150" y2="208" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="106" y="136" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="130" y="136" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <line x1="125" y1="128" x2="125" y2="106" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="118" y1="112" x2="132" y2="112" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <!-- Right buildings -->
+  <rect x="440" y="138" width="42" height="100" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="461" y1="138" x2="461" y2="238" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="440" y1="163" x2="482" y2="163" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="440" y1="190" x2="482" y2="190" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="440" y1="215" x2="482" y2="215" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="445" y="146" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="466" y="146" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+
+  <rect x="500" y="155" width="40" height="83" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="520" y1="155" x2="520" y2="238" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="180" x2="540" y2="180" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="205" x2="540" y2="205" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="222" x2="540" y2="222" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="505" y="162" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="526" y="162" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+
+  <!-- Hills background (Pune has hills) -->
+  <path d="M0,155 Q80,110 160,150 Q180,155 190,150" stroke="#818cf8" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M410,150 Q440,155 480,130 Q530,108 600,140" stroke="#818cf8" stroke-width="1.5" fill="none" opacity="0.4"/>
+
+  <line x1="0" y1="238" x2="600" y2="238" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="0" y1="246" x2="600" y2="246" stroke="#818cf8" stroke-width="1" stroke-dasharray="20,15"/>
+  <ellipse cx="80" cy="38" rx="28" ry="11" fill="white" opacity="0.65"/>
+  <ellipse cx="106" cy="34" rx="18" ry="9" fill="white" opacity="0.65"/>
+  <ellipse cx="490" cy="46" rx="30" ry="12" fill="white" opacity="0.6"/>
+  <text x="300" y="268" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#4f46e5" text-anchor="middle" letter-spacing="2">PUNE · MAHARASHTRA</text>
+</svg>

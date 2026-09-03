@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#fde8d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="280" fill="url(#sky)"/>
+  <rect x="0" y="240" width="600" height="40" fill="#fed7aa" opacity="0.4"/>
+
+  <!-- Hawa Mahal - centre landmark -->
+  <!-- Base steps -->
+  <rect x="200" y="222" width="200" height="18" fill="none" stroke="#ea580c" stroke-width="2"/>
+  <rect x="212" y="208" width="176" height="16" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <!-- Main facade body -->
+  <rect x="220" y="108" width="160" height="102" fill="none" stroke="#ea580c" stroke-width="2.5"/>
+  <!-- Vertical column dividers (5 sections) -->
+  <line x1="252" y1="108" x2="252" y2="208" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="284" y1="108" x2="284" y2="208" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="316" y1="108" x2="316" y2="208" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="348" y1="108" x2="348" y2="208" stroke="#ea580c" stroke-width="1.5"/>
+  <!-- Horizontal bands -->
+  <line x1="220" y1="138" x2="380" y2="138" stroke="#ea580c" stroke-width="1"/>
+  <line x1="220" y1="165" x2="380" y2="165" stroke="#ea580c" stroke-width="1"/>
+  <line x1="220" y1="188" x2="380" y2="188" stroke="#ea580c" stroke-width="1"/>
+  <!-- Row 1 arched windows (jharokhas) -->
+  <path d="M226,138 L226,118 Q236,108 246,118 L246,138" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M258,138 L258,118 Q268,108 278,118 L278,138" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M290,138 L290,118 Q300,108 310,118 L310,138" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M322,138 L322,118 Q332,108 342,118 L342,138" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M354,138 L354,118 Q364,108 374,118 L374,138" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <!-- Row 2 windows -->
+  <path d="M226,165 L226,146 Q236,138 246,146 L246,165" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M258,165 L258,146 Q268,138 278,146 L278,165" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M290,165 L290,146 Q300,138 310,146 L310,165" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M322,165 L322,146 Q332,138 342,146 L342,165" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M354,165 L354,146 Q364,138 374,146 L374,165" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <!-- Row 3 windows -->
+  <path d="M226,188 L226,172 Q236,165 246,172 L246,188" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M258,188 L258,172 Q268,165 278,172 L278,188" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M290,188 L290,172 Q300,165 310,172 L310,188" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M322,188 L322,172 Q332,165 342,172 L342,188" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <path d="M354,188 L354,172 Q364,165 374,172 L374,188" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <!-- Row 4 small windows -->
+  <rect x="226" y="192" width="20" height="14" rx="10" fill="none" stroke="#ea580c" stroke-width="1.2"/>
+  <rect x="258" y="192" width="20" height="14" rx="10" fill="none" stroke="#ea580c" stroke-width="1.2"/>
+  <rect x="290" y="192" width="20" height="14" rx="10" fill="none" stroke="#ea580c" stroke-width="1.2"/>
+  <rect x="322" y="192" width="20" height="14" rx="10" fill="none" stroke="#ea580c" stroke-width="1.2"/>
+  <rect x="354" y="192" width="20" height="14" rx="10" fill="none" stroke="#ea580c" stroke-width="1.2"/>
+  <!-- Stepped crown at top - 5 little domed kiosks -->
+  <ellipse cx="236" cy="106" rx="10" ry="7" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <line x1="236" y1="99" x2="236" y2="90" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="232,90 236,84 240,90" fill="#ea580c"/>
+  <ellipse cx="268" cy="104" rx="10" ry="7" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <line x1="268" y1="97" x2="268" y2="88" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="264,88 268,82 272,88" fill="#ea580c"/>
+  <ellipse cx="300" cy="102" rx="12" ry="8" fill="none" stroke="#ea580c" stroke-width="2"/>
+  <line x1="300" y1="94" x2="300" y2="82" stroke="#ea580c" stroke-width="2"/>
+  <polygon points="295,82 300,74 305,82" fill="#ea580c"/>
+  <ellipse cx="332" cy="104" rx="10" ry="7" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <line x1="332" y1="97" x2="332" y2="88" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="328,88 332,82 336,88" fill="#ea580c"/>
+  <ellipse cx="364" cy="106" rx="10" ry="7" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <line x1="364" y1="99" x2="364" y2="90" stroke="#ea580c" stroke-width="1.5"/>
+  <polygon points="360,90 364,84 368,90" fill="#ea580c"/>
+
+  <!-- Left buildings (pink city architecture) -->
+  <rect x="45" y="148" width="50" height="92" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="70" y1="148" x2="70" y2="240" stroke="#ea580c" stroke-width="1"/>
+  <line x1="45" y1="173" x2="95" y2="173" stroke="#ea580c" stroke-width="1"/>
+  <line x1="45" y1="198" x2="95" y2="198" stroke="#ea580c" stroke-width="1"/>
+  <line x1="45" y1="222" x2="95" y2="222" stroke="#ea580c" stroke-width="1"/>
+  <path d="M45,148 Q70,128 95,148" fill="none" stroke="#ea580c" stroke-width="1.8"/>
+  <ellipse cx="70" cy="128" rx="8" ry="6" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <rect x="52" y="156" width="8" height="9" fill="#fed7aa" opacity="0.8"/>
+  <rect x="74" y="156" width="8" height="9" fill="#fed7aa" opacity="0.8"/>
+  <rect x="52" y="180" width="8" height="9" fill="#fde8d0" opacity="0.9"/>
+  <rect x="74" y="180" width="8" height="9" fill="#fde8d0" opacity="0.9"/>
+
+  <rect x="115" y="162" width="42" height="78" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="136" y1="162" x2="136" y2="240" stroke="#ea580c" stroke-width="1"/>
+  <line x1="115" y1="185" x2="157" y2="185" stroke="#ea580c" stroke-width="1"/>
+  <line x1="115" y1="210" x2="157" y2="210" stroke="#ea580c" stroke-width="1"/>
+  <path d="M115,162 Q136,146 157,162" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <rect x="120" y="170" width="8" height="8" fill="#fed7aa" opacity="0.8"/>
+  <rect x="140" y="170" width="8" height="8" fill="#fed7aa" opacity="0.8"/>
+
+  <!-- Right buildings -->
+  <rect x="428" y="155" width="42" height="85" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="449" y1="155" x2="449" y2="240" stroke="#ea580c" stroke-width="1"/>
+  <line x1="428" y1="178" x2="470" y2="178" stroke="#ea580c" stroke-width="1"/>
+  <line x1="428" y1="202" x2="470" y2="202" stroke="#ea580c" stroke-width="1"/>
+  <line x1="428" y1="224" x2="470" y2="224" stroke="#ea580c" stroke-width="1"/>
+  <path d="M428,155 Q449,138 470,155" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <rect x="432" y="162" width="8" height="9" fill="#fed7aa" opacity="0.8"/>
+  <rect x="454" y="162" width="8" height="9" fill="#fed7aa" opacity="0.8"/>
+
+  <rect x="495" y="140" width="50" height="100" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <line x1="520" y1="140" x2="520" y2="240" stroke="#ea580c" stroke-width="1"/>
+  <line x1="495" y1="165" x2="545" y2="165" stroke="#ea580c" stroke-width="1"/>
+  <line x1="495" y1="190" x2="545" y2="190" stroke="#ea580c" stroke-width="1"/>
+  <line x1="495" y1="215" x2="545" y2="215" stroke="#ea580c" stroke-width="1"/>
+  <path d="M495,140 Q520,120 545,140" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <ellipse cx="520" cy="120" rx="8" ry="6" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+  <rect x="500" y="148" width="9" height="9" fill="#fed7aa" opacity="0.8"/>
+  <rect x="525" y="148" width="9" height="9" fill="#fed7aa" opacity="0.8"/>
+  <rect x="500" y="172" width="9" height="9" fill="#fde8d0" opacity="0.9"/>
+  <rect x="525" y="172" width="9" height="9" fill="#fde8d0" opacity="0.9"/>
+
+  <line x1="0" y1="240" x2="600" y2="240" stroke="#ea580c" stroke-width="2"/>
+  <line x1="0" y1="248" x2="600" y2="248" stroke="#fb923c" stroke-width="1" stroke-dasharray="20,15"/>
+  <ellipse cx="80" cy="38" rx="28" ry="11" fill="white" opacity="0.65"/>
+  <ellipse cx="106" cy="34" rx="18" ry="9" fill="white" opacity="0.65"/>
+  <ellipse cx="490" cy="46" rx="26" ry="10" fill="white" opacity="0.6"/>
+  <text x="300" y="268" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#ea580c" text-anchor="middle" letter-spacing="2">JAIPUR · RAJASTHAN</text>
+</svg>

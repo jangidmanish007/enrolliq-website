@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef2ff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="280" fill="url(#sky)"/>
+  <rect x="0" y="240" width="600" height="40" fill="#c7d2fe" opacity="0.35"/>
+
+  <!-- Bara Imambara - centre landmark -->
+  <!-- Base steps -->
+  <rect x="168" y="222" width="264" height="18" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <rect x="180" y="208" width="240" height="16" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <!-- Main hall body -->
+  <rect x="192" y="148" width="216" height="62" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+  <!-- Horizontal band cornice -->
+  <line x1="192" y1="165" x2="408" y2="165" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="192" y1="178" x2="408" y2="178" stroke="#4f46e5" stroke-width="1"/>
+  <!-- Arched niches along facade -->
+  <path d="M203,165 L203,152 Q211,145 219,152 L219,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M224,165 L224,152 Q232,145 240,152 L240,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M245,165 L245,152 Q253,145 261,152 L261,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M266,165 L266,152 Q274,145 282,152 L282,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M287,165 L287,152 Q295,145 303,152 L303,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M308,165 L308,152 Q316,145 324,152 L324,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M329,165 L329,152 Q337,145 345,152 L345,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M350,165 L350,152 Q358,145 366,152 L366,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <path d="M371,165 L371,152 Q379,145 387,152 L387,165" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <!-- Main central gateway arch -->
+  <rect x="274" y="148" width="52" height="62" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <path d="M274,148 Q300,124 326,148" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <path d="M282,148 Q300,130 318,148 L318,180 L282,180 Z" fill="none" stroke="#4f46e5" stroke-width="1.2"/>
+  <!-- Left tower (minaret) -->
+  <rect x="192" y="100" width="22" height="110" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="203" cy="98" rx="12" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <line x1="203" y1="90" x2="203" y2="74" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="203" cy="72" rx="6" ry="4" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="203" y1="68" x2="203" y2="56" stroke="#4f46e5" stroke-width="1.8"/>
+  <polygon points="199,56 203,48 207,56" fill="#4f46e5"/>
+  <line x1="190" y1="118" x2="216" y2="118" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="190" y1="140" x2="216" y2="140" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="190" y1="162" x2="216" y2="162" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="190" y1="185" x2="216" y2="185" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Right tower (minaret) -->
+  <rect x="386" y="100" width="22" height="110" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="397" cy="98" rx="12" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <line x1="397" y1="90" x2="397" y2="74" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="397" cy="72" rx="6" ry="4" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="397" y1="68" x2="397" y2="56" stroke="#4f46e5" stroke-width="1.8"/>
+  <polygon points="393,56 397,48 401,56" fill="#4f46e5"/>
+  <line x1="384" y1="118" x2="410" y2="118" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="384" y1="140" x2="410" y2="140" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="384" y1="162" x2="410" y2="162" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="384" y1="185" x2="410" y2="185" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Central dome -->
+  <ellipse cx="300" cy="148" rx="20" ry="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="300" y1="134" x2="300" y2="118" stroke="#4f46e5" stroke-width="1.8"/>
+  <polygon points="296,118 300,110 304,118" fill="#4f46e5"/>
+  <!-- Side smaller domes -->
+  <ellipse cx="250" cy="148" rx="12" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="250" y1="140" x2="250" y2="128" stroke="#4f46e5" stroke-width="1.5"/>
+  <polygon points="247,128 250,122 253,128" fill="#4f46e5"/>
+  <ellipse cx="350" cy="148" rx="12" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="350" y1="140" x2="350" y2="128" stroke="#4f46e5" stroke-width="1.5"/>
+  <polygon points="347,128 350,122 353,128" fill="#4f46e5"/>
+
+  <!-- Left bg buildings -->
+  <rect x="45" y="155" width="40" height="85" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="65" y1="155" x2="65" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="178" x2="85" y2="178" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="202" x2="85" y2="202" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="224" x2="85" y2="224" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="50" y="162" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="69" y="162" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="50" y="185" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="69" y="185" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+
+  <rect x="104" y="168" width="38" height="72" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="123" y1="168" x2="123" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="104" y1="190" x2="142" y2="190" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="104" y1="214" x2="142" y2="214" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="109" y="175" width="8" height="8" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="127" y="175" width="8" height="8" fill="#a5b4fc" opacity="0.7"/>
+
+  <!-- Right bg buildings -->
+  <rect x="440" y="162" width="40" height="78" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="460" y1="162" x2="460" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="440" y1="185" x2="480" y2="185" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="440" y1="210" x2="480" y2="210" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="444" y="168" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="464" y="168" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+
+  <rect x="498" y="148" width="48" height="92" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="522" y1="148" x2="522" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="498" y1="172" x2="546" y2="172" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="498" y1="196" x2="546" y2="196" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="498" y1="220" x2="546" y2="220" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="503" y="155" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="526" y="155" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="503" y="178" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="526" y="178" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <line x1="522" y1="148" x2="522" y2="120" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="515" y1="126" x2="529" y2="126" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <line x1="0" y1="240" x2="600" y2="240" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="0" y1="248" x2="600" y2="248" stroke="#818cf8" stroke-width="1" stroke-dasharray="20,15"/>
+  <ellipse cx="80" cy="38" rx="28" ry="11" fill="white" opacity="0.65"/>
+  <ellipse cx="106" cy="34" rx="18" ry="9" fill="white" opacity="0.65"/>
+  <ellipse cx="490" cy="46" rx="26" ry="10" fill="white" opacity="0.6"/>
+  <text x="300" y="268" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#4f46e5" text-anchor="middle" letter-spacing="2">LUCKNOW · UTTAR PRADESH</text>
+</svg>

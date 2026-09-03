@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef2ff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="280" fill="url(#sky)"/>
+  <rect x="0" y="240" width="600" height="40" fill="#c7d2fe" opacity="0.35"/>
+
+  <!-- Capitol Complex Chandigarh / Punjab & Haryana High Court style (Le Corbusier) -->
+  <!-- Main Assembly building - flat roof modernist -->
+  <!-- Central hyperbolic cooling tower / Assembly funnel -->
+  <path d="M255,130 Q270,90 300,85 Q330,90 345,130 L340,200 L260,200 Z" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+  <!-- Tower opening at top -->
+  <ellipse cx="300" cy="85" rx="28" ry="12" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <!-- Shade fin (iconic) -->
+  <rect x="242" y="118" width="18" height="82" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <polygon points="242,118 235,100 260,100 260,118" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <rect x="340" y="118" width="18" height="82" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <polygon points="340,118 340,100 365,100 358,118" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <!-- Base platform -->
+  <rect x="220" y="198" width="160" height="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <rect x="208" y="210" width="184" height="14" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <rect x="195" y="222" width="210" height="18" fill="none" stroke="#4f46e5" stroke-width="2"/>
+  <!-- Horizontal floor lines on assembly -->
+  <line x1="263" y1="150" x2="337" y2="150" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="261" y1="165" x2="339" y2="165" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="261" y1="180" x2="339" y2="180" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="261" y1="195" x2="339" y2="195" stroke="#4f46e5" stroke-width="1"/>
+  <!-- Entrance portico -->
+  <rect x="282" y="190" width="36" height="42" fill="none" stroke="#4f46e5" stroke-width="1.8"/>
+  <line x1="300" y1="190" x2="300" y2="232" stroke="#4f46e5" stroke-width="1"/>
+  <!-- Column fins -->
+  <line x1="272" y1="130" x2="272" y2="200" stroke="#4f46e5" stroke-width="1.2"/>
+  <line x1="282" y1="128" x2="282" y2="200" stroke="#4f46e5" stroke-width="1.2"/>
+  <line x1="318" y1="128" x2="318" y2="200" stroke="#4f46e5" stroke-width="1.2"/>
+  <line x1="328" y1="130" x2="328" y2="200" stroke="#4f46e5" stroke-width="1.2"/>
+  <!-- Mast / spire at top of funnel -->
+  <line x1="300" y1="74" x2="300" y2="52" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="293" y1="58" x2="307" y2="58" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="296" y1="52" x2="304" y2="52" stroke="#4f46e5" stroke-width="1.5"/>
+  <!-- Open Hand symbol (simplified) -->
+  <circle cx="300" cy="42" r="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="296" y1="38" x2="296" y2="32" stroke="#4f46e5" stroke-width="1.2"/>
+  <line x1="300" y1="36" x2="300" y2="30" stroke="#4f46e5" stroke-width="1.2"/>
+  <line x1="304" y1="38" x2="304" y2="32" stroke="#4f46e5" stroke-width="1.2"/>
+
+  <!-- Left buildings (Mohali IT park style) -->
+  <rect x="45" y="145" width="48" height="95" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="69" y1="145" x2="69" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="170" x2="93" y2="170" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="195" x2="93" y2="195" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="45" y1="218" x2="93" y2="218" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="50" y="153" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="73" y="153" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="50" y="178" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="73" y="178" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="50" y="202" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="73" y="202" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <line x1="69" y1="145" x2="69" y2="118" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="62" y1="124" x2="76" y2="124" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <rect x="112" y="160" width="42" height="80" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="133" y1="160" x2="133" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="112" y1="183" x2="154" y2="183" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="112" y1="208" x2="154" y2="208" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="117" y="167" width="8" height="9" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="137" y="167" width="8" height="9" fill="#c7d2fe" opacity="0.9"/>
+  <!-- flat roof modernist top -->
+  <rect x="112" y="155" width="42" height="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <!-- Right buildings -->
+  <rect x="435" y="158" width="45" height="82" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="457" y1="158" x2="457" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="435" y1="182" x2="480" y2="182" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="435" y1="206" x2="480" y2="206" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="435" y1="226" x2="480" y2="226" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="440" y="163" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="462" y="163" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="435" y="152" width="45" height="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <rect x="500" y="140" width="50" height="100" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="525" y1="140" x2="525" y2="240" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="165" x2="550" y2="165" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="190" x2="550" y2="190" stroke="#4f46e5" stroke-width="1"/>
+  <line x1="500" y1="215" x2="550" y2="215" stroke="#4f46e5" stroke-width="1"/>
+  <rect x="505" y="148" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="529" y="148" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="505" y="172" width="9" height="10" fill="#c7d2fe" opacity="0.9"/>
+  <rect x="529" y="172" width="9" height="10" fill="#a5b4fc" opacity="0.7"/>
+  <rect x="500" y="134" width="50" height="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <!-- Trees (Chandigarh is known for green) -->
+  <line x1="175" y1="240" x2="175" y2="212" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="175" cy="205" rx="12" ry="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="158" y1="240" x2="158" y2="216" stroke="#4f46e5" stroke-width="1.5"/>
+  <ellipse cx="158" cy="209" rx="10" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="415" y1="240" x2="415" y2="212" stroke="#4f46e5" stroke-width="2"/>
+  <ellipse cx="415" cy="205" rx="12" ry="10" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+  <line x1="432" y1="240" x2="432" y2="216" stroke="#4f46e5" stroke-width="1.5"/>
+  <ellipse cx="432" cy="209" rx="10" ry="8" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+
+  <line x1="0" y1="240" x2="600" y2="240" stroke="#4f46e5" stroke-width="2"/>
+  <line x1="0" y1="248" x2="600" y2="248" stroke="#818cf8" stroke-width="1" stroke-dasharray="20,15"/>
+  <ellipse cx="80" cy="38" rx="28" ry="11" fill="white" opacity="0.65"/>
+  <ellipse cx="106" cy="34" rx="18" ry="9" fill="white" opacity="0.65"/>
+  <ellipse cx="490" cy="46" rx="26" ry="10" fill="white" opacity="0.6"/>
+  <text x="300" y="268" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#4f46e5" text-anchor="middle" letter-spacing="2">MOHALI · PUNJAB</text>
+</svg>
