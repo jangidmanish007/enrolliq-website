@@ -18,7 +18,7 @@ export default function MainHome() {
       <CRMSpotlightSection />
       <IntegrationEcosystemSection />
       <TestimonialsSection />
-      <PartnersSection />
+      {/* <PartnersSection /> */}
       <FAQSection />
       <CTASection />
     </>

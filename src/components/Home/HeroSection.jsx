@@ -60,7 +60,7 @@ export default function HeroSection() {
       </div>
 
       {/* ── Content ── */}
-      <div className="relative mx-auto max-w-7xl px-4 lg:px-8 pt-28 pb-0 sm:pt-36">
+      <div className="relative mx-auto max-w-7xl px-4 lg:px-8 pt-28 pb-28 sm:pt-36 sm:pb-36">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 lg:gap-10 lg:items-center">
           {/* LEFT — Copy */}
           <div className="lg:pr-6">
@@ -220,36 +220,6 @@ export default function HeroSection() {
             </div>
           </motion.div>
         </div>
-      </div>
-
-      {/* ── Stats band ── */}
-      <div className="relative mx-auto max-w-7xl px-4 lg:px-8 mt-20 pb-0">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.85, duration: 0.55 }}
-          className="grid grid-cols-2 sm:grid-cols-4 gap-px overflow-hidden rounded-t-2xl border-t border-x border-white/8 bg-white/8"
-        >
-          {[
-            { value: '150+', label: 'Partner Institutions', icon: '🏛️', sub: 'across India & ME' },
-            { value: '500K+', label: 'Enquiries / Year', icon: '📥', sub: 'managed on-platform' },
-            { value: '38%', label: 'Avg. Conversion Lift', icon: '📈', sub: 'vs pre-EnrollIQ' },
-            { value: '4.9★', label: 'Satisfaction Score', icon: '⭐', sub: 'from 150+ reviews' },
-          ].map(({ value, label, icon, sub }, i) => (
-            <motion.div
-              key={label}
-              initial={{ opacity: 0, y: 12 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.9 + i * 0.08 }}
-              className="flex flex-col items-center gap-1 bg-white/[0.04] px-6 py-7 text-center backdrop-blur-sm hover:bg-white/[0.07] transition-colors"
-            >
-              <span className="text-2xl mb-1">{icon}</span>
-              <p className="text-2xl font-extrabold text-white tracking-tight">{value}</p>
-              <p className="text-[12px] font-semibold text-white/70">{label}</p>
-              <p className="text-[11px] text-white/30">{sub}</p>
-            </motion.div>
-          ))}
-        </motion.div>
       </div>
 
       {/* ── Seamless transition to white bg ── */}
